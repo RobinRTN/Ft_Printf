@@ -10,7 +10,7 @@
 - Handles basic format specifiers like %c, %s, %p, %d, and %x.
 - Width and Precision
 - Manages field width and precision for more refined output control.
--Variadic Arguments - uses the stdarg.h library to handle a variable number of arguments, enhancing the function's flexibility.
+- Variadic Arguments - uses the stdarg.h library to handle a variable number of arguments, enhancing the function's flexibility.
 
 ## Challenges
 - String Parsing: Developing a parser for interpreting format strings was a major focus.
